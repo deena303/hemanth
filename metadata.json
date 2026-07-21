@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Gift Website",
+  "description": "An elegant, cinematic, and emotional personalized digital gift website featuring beautiful memory carousels, text-generate animations, and a customized letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
